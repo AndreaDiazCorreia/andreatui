@@ -1,0 +1,12 @@
+/home/andrea/Documentos/andreatui/target/debug/deps/libcolor_eyre-be2b3fba61d6f8d0.rmeta: /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs
+
+/home/andrea/Documentos/andreatui/target/debug/deps/color_eyre-be2b3fba61d6f8d0.d: /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs
+
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs:

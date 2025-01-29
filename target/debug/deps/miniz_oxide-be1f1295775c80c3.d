@@ -1,0 +1,10 @@
+/home/andrea/Documentos/andreatui/target/debug/deps/libminiz_oxide-be1f1295775c80c3.rmeta: /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs
+
+/home/andrea/Documentos/andreatui/target/debug/deps/miniz_oxide-be1f1295775c80c3.d: /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs /home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs
+
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs:
+/home/andrea/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs:
